@@ -1,0 +1,17 @@
+## Interface: 90207
+## Title: |cff8f2838Kitar|r Companion
+## Notes: Immersiver Rollenspiel-Begleiter mit Animationen und Finanzen.
+## Notes-deDE: Immersiver Rollenspiel-Begleiter mit Animationen und Finanzen.
+## Author: Annila
+## Version: 1.4.0
+## OptionalDeps: SH_Roleplay, SHFinanzen, SH_Animations
+## SavedVariables: KitarCompanionDB
+## SavedVariablesPerCharacter: SHFinanzenDB
+
+Core.lua
+Modules\CalendarData.lua
+Modules\AnimationData.lua
+Modules\Animations.lua
+Modules\Finances.lua
+Modules\Minimap.lua
+Modules\Options.lua
