@@ -1,7 +1,7 @@
 # Kitar Companion
 
-[![Downloads](https://img.shields.io/github/downloads/Colvar91/Kitar-Companion/total?style=for-the-badge&label=Downloads)](https://github.com/Colvar91/Kitar-Companion/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Colvar91/Kitar-Companion?style=for-the-badge&label=Version)](https://github.com/Colvar91/Kitar-Companion/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Colvar91/Kitar_Companion/total?style=for-the-badge&label=Downloads)](https://github.com/Colvar91/Kitar_Companion/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Colvar91/Kitar_Companion?style=for-the-badge&label=Version)](https://github.com/Colvar91/Kitar_Companion/releases/latest)
 
 **Kitar Companion** ist ein Begleitprojekt für Kitar.
 
@@ -21,7 +21,7 @@ Die aktuelle Version findest du unter **Releases**:
 
 Die Download-Anzeige am Anfang dieser README wird automatisch aktualisiert und zeigt die Gesamtzahl der Downloads aller über GitHub Releases veröffentlichten Dateien.
 
-➡️ [Alle Releases anzeigen](https://github.com/Colvar91/Kitar-Companion/releases)
+➡️ [Alle Releases anzeigen](https://github.com/Colvar91/Kitar_Companion/releases)
 
 ## Hinweise
 
